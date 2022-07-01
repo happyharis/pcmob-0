@@ -1,5 +1,5 @@
 import { FlatList, StyleSheet, Text } from "react-native";
-import { names } from "./names";
+import { names } from "./name";
 
 export default function App() {
   const namesAsObjects = names.map((item) => {
