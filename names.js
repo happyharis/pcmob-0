@@ -3,7 +3,6 @@ export const names = [
   "Aaren",
   "Aarez",
   "Aarman",
-
   "Aaron-James",
   "Aarron",
   "Aaryan",
